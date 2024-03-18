@@ -1,1 +1,1 @@
-# Meu-Site
+Website pessoal desenvolvido a partir dos ensinamentos transmitidos no curso "HTML5, CSS3 e Javascript na prática (2 Projetos)", compartilhado por Luis Antonio de Souza Silva na Udemy [https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos]. O site atualmente encontra-se na Version One e hospedado no GitHub Pages [https://vivihme.github.io/Meu-Site/].

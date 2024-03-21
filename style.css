@@ -59,7 +59,7 @@ footer span {
     font-weight: 200;
 }
 main {
-    padding: 4%;
+    padding: 3.5%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -69,16 +69,18 @@ main .main-content {
     flex-direction: column;
 }
 main .main-content h2 {
-    margin-bottom: 1.5%;
-    font-size: 2.2em;
+    margin-bottom: 1.25%;
+    font-size: 2.1em;
+    font-family: 'DM Mono', monospace;
 }
 main .main-content .text {
-    margin-bottom: 9%;
+    margin-bottom: 7.5%;
 }
 main .main-content .text p {
     width: 75%;
-    font-size: 1.25em;
-    font-weight: 400;
+    font-size: 1.10em;
+    font-weight: 300;
+    font-family: 'DM Mono', monospace;
 }
 main .techs .cards-container {
     display: flex;
@@ -114,6 +116,6 @@ main figure img {
     width: 400px;
     height: 400px;
     border-radius: 50px;
-    margin-bottom: 10%;
+    margin-bottom: 8%;
     border: 2px #222 solid;
 }
